@@ -14,7 +14,6 @@ const swaggerOptions = {
             version: "1.0.0"
         },
         consumes: ["application/json"],
-        servers: ["http://localhost:3000/"]
     },
     apis: ["index.js"]
 }
